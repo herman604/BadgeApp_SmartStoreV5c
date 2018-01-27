@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[FMDatabase setKey:]:FMDatabase.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FMDatabase setKeyWithData:]:FMDatabase.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[SFSmartStore sharedStoreWithName:]:SFSmartStore.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "SFUserAccountManager.sharedInstance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
